@@ -14,6 +14,10 @@
 ## Introduction
 
 Welcome to the CRM Application. This project is a mini Customer Relationship Management (CRM) system designed to manage customer data and run marketing campaigns efficiently. It features data ingestion, audience creation, campaign management, and Google-based authentication.
+## Interface
+![image](https://github.com/aditya6021/crm-app/assets/105545824/c5452de7-0ca8-4259-830e-1d4f979e9798)
+
+
 
 ## Features
 
@@ -150,6 +154,7 @@ Follow these steps to set up the project locally:
 - **Other Tools**:
     - Axios
     - Postman
+
 
 ## License
 
